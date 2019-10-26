@@ -1,0 +1,2 @@
+<h1>Is Sum of Consecutive 2</h1>
+<p>source: <a href="https://www.codesignal.com/">codesignal.com</a>
